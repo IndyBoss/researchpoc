@@ -8,7 +8,7 @@ Ik koos om dit de doen aan de hand van een Quiz als mijn Proof Of Concept.
 
 ## Logboek
 - Ik ben begonnen met een hele hoop video's te bekijken en research te doen naar mijn specifieke POC
-  -
+  - l
 
 
 
