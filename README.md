@@ -8,7 +8,10 @@ Ik koos om dit de doen aan de hand van een Quiz als mijn Proof Of Concept.
 
 ## Logboek
 - Ik ben begonnen met een hele hoop video's te bekijken en research te doen naar mijn specifieke POC
-  - l
+  - [Intro to Building Serverless Apps for Google Home and Google Assistant (Cloud Next '18)](https://www.youtube.com/watch?v=hWZxrTTmqcM)
+    - Deze video ging heel diep maar leek me niet de beste manier om deze dingen aan te pakken.
+    - Heel leuk als je dieper wilt gaan en wel degelijk een project wilt maken dat volledig custom kan gebouwd worden en doet wat je vraagt.
+    
 
 
 
