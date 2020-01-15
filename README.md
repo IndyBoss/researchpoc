@@ -12,6 +12,9 @@ Ik koos om dit de doen aan de hand van een Quiz als mijn Proof Of Concept.
     - Deze video ging heel diep maar leek me niet de beste manier om deze dingen aan te pakken.
     - Heel leuk als je dieper wilt gaan en wel degelijk een project wilt maken dat volledig custom kan gebouwd worden en doet wat je vraagt.
     
+- Deze was miss wel een beetje verouderd maar was zeer informatief
+  - [Create a Google Assistant app that uses your server](https://greenido.wordpress.com/2017/09/29/create-a-google-assistant-that-use-your-server/)
+    - Handig om de innerlijke werking te leren via simpele visuele hulpen
 
 
 
